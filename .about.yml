@@ -75,8 +75,8 @@ stack:
 #     url: URL for the text of the license
 licenses:
   hmac-authentication-npm:
-    name: CC0
-    url: https://github.com/18F/hmac-authentication-npm/blob/master/LICENSE.md
+    name: ISC
+    url: https://github.com/mbland/hmac-authentication-npm/blob/master/LICENSE.md
 
 # Blogs or websites associated with project development
 #blog:
@@ -92,7 +92,7 @@ links:
 
 # Email addresses of points-of-contact
 contact:
-- url: mailto:michael.bland@acm.org
+- url: mailto:mbland@acm.org
   text: Mike Bland
-- url: https://github.com/18F/hmac-authentication-npm/issues
-  text: 18F/hmac-authentication-npm issues
+- url: https://github.com/mbland/hmac-authentication-npm/issues
+  text: mbland/hmac-authentication-npm issues
