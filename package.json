@@ -1,6 +1,6 @@
 {
   "name": "hmac-authentication",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Signs and validates HTTP requests based on a shared-secret HMAC signature",
   "main": "index.js",
   "scripts": {
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/18f/hmac-authentication-npm.git"
+    "url": "git+https://github.com/mbland/hmac-authentication-npm.git"
   },
   "keywords": [
     "HMAC",
     "authentication"
   ],
   "author": "Mike Bland <mbland@acm.org> (https://mike-bland.com/)",
-  "license": "CC0-1.0",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/18f/hmac-authentication-npm/issues"
+    "url": "https://github.com/mbland/hmac-authentication-npm/issues"
   },
-  "homepage": "https://github.com/18f/hmac-authentication-npm#readme",
+  "homepage": "https://github.com/mbland/hmac-authentication-npm#readme",
   "devDependencies": {
     "chai": "^3.3.0",
     "gulp": "^3.9.0",
